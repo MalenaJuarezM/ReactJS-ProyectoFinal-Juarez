@@ -1,0 +1,29 @@
+.navbar {
+  height: 80px;
+  padding: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #c0a98a;
+}
+.logo {
+  width: 250px;
+}
+
+.menu {
+  list-style-type: none;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+li {
+  margin: 5px;
+  font-size: 20px;
+  color: #44474c;
+  letter-spacing: 1px;
+}
+
+.a {
+  text-decoration: none;
+}

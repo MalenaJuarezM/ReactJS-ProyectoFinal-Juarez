@@ -1,0 +1,14 @@
+.cardContainer {
+  display: flex;
+  justify-content: center;
+  background-color: blue;
+}
+
+.cardActions {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.button {
+  justify-content: flex-end;
+}
